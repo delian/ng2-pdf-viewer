@@ -115,7 +115,7 @@
     "http-server": "^0.9.0",
     "lint-staged": "^1.0.2",
     "lodash": "^4.15.0",
-    "madge": "^0.5.4",
+    "madge": "^8.0.0",
     "markdown-doctest": "^0.7.0",
     "minimist": "^1.2.0",
     "mkdirp": "^0.5.1",
